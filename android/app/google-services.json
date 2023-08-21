@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "610006652992",
+    "project_id": "e-commerce-2ca56",
+    "storage_bucket": "e-commerce-2ca56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610006652992:android:8b16df046d6b5d8de9e7a5",
+        "android_client_info": {
+          "package_name": "com.example.youtube_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610006652992-56gvai4f78lah8he3l48g5tvtke2p298.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QvmtTxgQ3jWDO-xrog7JWSF5rcdNOQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610006652992-56gvai4f78lah8he3l48g5tvtke2p298.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610006652992-bisbtb4tm6tj0o85pv9uomqsd834m55e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.youtubeEcommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
