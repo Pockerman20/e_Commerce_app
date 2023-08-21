@@ -1,11 +1,7 @@
-E-Connerce 9 Hours
-
-[Youtube Watch](https://www.youtube.com/watch?v=nJhiGNfPl54)
+E-Commerce
 
 
 
 
 
-
-
-![saabirdone](https://user-images.githubusercontent.com/77012663/231779216-8c5294d7-8270-432d-9223-50dda9e5facc.png)
+![e_commerce](https://github.com/Pockerman20/e_Commerce_app/assets/90500919/de559de7-14a9-430d-ae08-326eeb24d01f)
